@@ -6,7 +6,7 @@
 - Tested on 127.0.0.1 and 192.168.1.1
 
 ### Result Screenshot:
-![Scan Result](1.png,2.png)
+![Scan Result](1.png)
 
 ### How to run:
 py scanner.py
