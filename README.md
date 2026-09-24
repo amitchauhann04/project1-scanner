@@ -6,6 +6,3 @@
 ### Result Screenshot:
 ![Scan Result](1.png)
 ![Scan Result](2.png)
-
-### How to run:
-py scanner.py
